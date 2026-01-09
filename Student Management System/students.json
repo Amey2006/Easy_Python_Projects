@@ -1,0 +1,22 @@
+{
+    "201": {
+        "name": "Amey",
+        "age": "20",
+        "course": "AIML"
+    },
+    "202": {
+        "name": "Vishal",
+        "age": "22",
+        "course": "CSE"
+    },
+    "103": {
+        "name": "Rahul",
+        "age": "21",
+        "course": "ECE"
+    },
+    "203": {
+        "name": "Rahul",
+        "age": "21",
+        "course": "ECE"
+    }
+}

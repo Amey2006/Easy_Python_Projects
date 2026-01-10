@@ -9,14 +9,24 @@
         "age": "22",
         "course": "CSE"
     },
-    "103": {
-        "name": "Rahul",
-        "age": "21",
-        "course": "ECE"
-    },
     "203": {
         "name": "Rahul",
         "age": "21",
         "course": "ECE"
+    },
+    "204": {
+        "name": "Vikram",
+        "age": "23",
+        "course": "Civil"
+    },
+    "205": {
+        "name": "Mohan",
+        "age": "22",
+        "course": "Robotics"
+    },
+    "206": {
+        "name": "Rajesh",
+        "age": "24",
+        "course": "MECH"
     }
 }
